@@ -50,7 +50,7 @@
 .mountain {
   position: absolute;
   display: inline-block;
-  margin-top:18em;
+  margin-top: 18em;
   margin-left: -15em;
   height: 22em;
   width: 30em;
@@ -94,12 +94,12 @@ body {
   display: inline-block;
 }
 .main {
-  font-family: 'Marck Script',cursive;
+  font-family: "Marck Script", cursive;
   font-size: 4em;
-  margin-left:-2em;
+  margin-left: -2em;
 }
 .sub {
-  font-family: 'Sacramento', cursive;
+  font-family: "Sacramento", cursive;
   color: grey;
   font-size: 2em;
   top: 7em;
